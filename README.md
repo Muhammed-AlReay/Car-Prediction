@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Memo2004/Car-Price-Prediction.git
+   git clone https://github.com/Muhammed-AlReay/Car-Price-Prediction.git
    cd Car-Price-Prediction
    ```
 
@@ -56,5 +56,5 @@ The dataset used in this project contains various features like car brand, model
 - Deploy the model using cloud services.
 
 ---
-**Author:** Mohammed Khaled
+**Author:** Muhammed-AlReay
 
